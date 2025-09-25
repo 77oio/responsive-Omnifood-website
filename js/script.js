@@ -53,7 +53,7 @@ allLinks.forEach(function (link) {
 });
 
 ///////////////////////////////////////////////////////////
-// Sticky navigation
+// Sticky navigation固定导航栏
 
 const sectionHeroEl = document.querySelector(".section-hero");
 
